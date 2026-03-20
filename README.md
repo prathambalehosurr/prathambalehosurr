@@ -59,7 +59,6 @@ pratham = {
 ## 📊 Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prathambalehosurr&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathambalehosurr&layout=compact&theme=radical&hide_border=true" />
 </div>
 

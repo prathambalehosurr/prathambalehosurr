@@ -67,13 +67,6 @@ pratham = {
   <img src="https://streak-stats.demolab.com?user=prathambalehosurr&theme=radical&hide_border=true" />
 </div>
 
-
-## 🐍 watch my contributions get eaten
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/prathambalehosurr/prathambalehosurr/output/github-contribution-grid-snake-dark.svg" alt="snake eating my commits" />
-</div>
-
 ## 🎯 currently up to
 
 - 🔨 building something cool (always)

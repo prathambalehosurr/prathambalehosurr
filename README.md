@@ -2,7 +2,7 @@
 <tr>
 <td valign="center" width="60%">
 
-# hey, i'm pratham 👋🤙
+# Hey, I'm Pratham Balehosur 🤙
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Engineer+%F0%9F%9A%80;Backend+Whisperer+%F0%9F%94%A7;ML+%2F+AI+Tinkerer+%F0%9F%A4%96;Data+Analyst+Extraordinaire+%F0%9F%93%8A;Professional+Bug+Creator+%F0%9F%90%9B...+and+Fixer)](https://git.io/typing-svg)
 
@@ -65,7 +65,6 @@ pratham = {
 ## 📊 github wrapped (but make it stats)
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prathambalehosurr&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathambalehosurr&layout=compact&theme=radical&hide_border=true" />
 </div>
 
@@ -74,7 +73,6 @@ pratham = {
 </div>
 
 
-## 🐍 watch my contributions get eaten
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/prathambalehosurr/prathambalehosurr/output/github-contribution-grid-snake-dark.svg" alt="snake eating my commits" />

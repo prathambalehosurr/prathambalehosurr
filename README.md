@@ -1,7 +1,7 @@
 <img
   align="right"
   alt="Coding"
-  width="320"
+  width="270"
   src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif"
 />
 

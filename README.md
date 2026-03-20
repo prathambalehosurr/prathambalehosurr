@@ -73,12 +73,10 @@ pratham = {
 </div>
 
 
-
+🐍 watch my contributions get eaten
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prathambalehosurr/prathambalehosurr/output/github-contribution-grid-snake-dark.svg" alt="snake eating my commits" />
+  <img src="https://raw.githubusercontent.com/prathambalehosurr/prathambalehosurr/output/github-snake-dark.svg" alt="snake eating my commits" />
 </div>
-
-> 🚧 _to get the snake animation working, set up [this GitHub Action](https://github.com/Platane/snk)_
 
 
 ## 🎯 currently up to

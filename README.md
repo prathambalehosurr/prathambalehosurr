@@ -1,18 +1,18 @@
 <img
-  align="right"
+  align="center"
   alt="Coding"
   width="320"
   src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif"
 />
 
-# hey, i'm pratham 👋🤙
+# Hey, I'm Pratham Balehosur 👋🤙
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%9A%80;Backend+Whisperer+%F0%9F%94%A7;ML+%2F+AI+Tinkerer+%F0%9F%A4%96;Data+Analyst+Extraordinaire+%F0%9F%93%8A;Professional+Bug+Creator+%F0%9F%90%9B...+and+Fixer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=prathambalehosurr&color=F75C7E&style=flat-square&label=profile+views" />
 
 
-## 🧠 who am i?
+##  Who am i?
 
 ```python
 pratham = {
@@ -27,7 +27,7 @@ pratham = {
 ```
 
 
-## 🛠️ my tech playground
+## 🛠️ My Tech Stack
 
 <div align="center">
 
@@ -56,7 +56,7 @@ pratham = {
 </div>
 
 
-## 📊 github wrapped (but make it stats)
+## 📊 Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=prathambalehosurr&show_icons=true&theme=radical&hide_border=true&count_private=true" />
@@ -73,9 +73,6 @@ pratham = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/prathambalehosurr/prathambalehosurr/output/github-contribution-grid-snake-dark.svg" alt="snake eating my commits" />
 </div>
-
-> 🚧 _to get the snake animation working, set up [this GitHub Action](https://github.com/Platane/snk)_
-
 
 ## 🎯 currently up to
 

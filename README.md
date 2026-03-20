@@ -73,7 +73,6 @@ pratham = {
 </div>
 
 
-🐍 watch my contributions get eaten
 <div align="center">
   <img src="https://raw.githubusercontent.com/prathambalehosurr/prathambalehosurr/output/github-snake-dark.svg" alt="snake eating my commits" />
 </div>

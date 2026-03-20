@@ -1,18 +1,24 @@
-<img
-  align="right"
-  alt="Coding"
-  width="350"
-  src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif"
-/>
+<table width="100%">
+<tr>
+<td valign="center" width="60%">
 
-# Hey, I'm Pratham Balehosur 👋🤙
+# hey, i'm pratham 👋🤙
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=650&lines=Full-Stack+Engineer+%F0%9F%9A%80;Backend+Whisperer+%F0%9F%94%A7;ML+%2F+AI+Tinkerer+%F0%9F%A4%96;Data+Analyst+Extraordinaire+%F0%9F%93%8A;Professional+Bug+Creator+%F0%9F%90%9B...+and+Fixer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Engineer+%F0%9F%9A%80;Backend+Whisperer+%F0%9F%94%A7;ML+%2F+AI+Tinkerer+%F0%9F%A4%96;Data+Analyst+Extraordinaire+%F0%9F%93%8A;Professional+Bug+Creator+%F0%9F%90%9B...+and+Fixer)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=prathambalehosurr&color=F75C7E&style=flat-square&label=profile+views" />
 
+</td>
+<td valign="center" align="right" width="40%">
 
-##  Who am i?
+<img alt="Coding" width="300" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" />
+
+</td>
+</tr>
+</table>
+
+
+## 🧠 who am i?
 
 ```python
 pratham = {
@@ -27,7 +33,7 @@ pratham = {
 ```
 
 
-## 🛠️ My Tech Stack
+## 🛠️ my tech playground
 
 <div align="center">
 
@@ -56,15 +62,26 @@ pratham = {
 </div>
 
 
-## 📊 Stats
+## 📊 github wrapped (but make it stats)
 
 <div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=prathambalehosurr&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathambalehosurr&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prathambalehosurr&theme=radical&hide_border=true" />
 </div>
+
+
+## 🐍 watch my contributions get eaten
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/prathambalehosurr/prathambalehosurr/output/github-contribution-grid-snake-dark.svg" alt="snake eating my commits" />
+</div>
+
+> 🚧 _to get the snake animation working, set up [this GitHub Action](https://github.com/Platane/snk)_
+
 
 ## 🎯 currently up to
 

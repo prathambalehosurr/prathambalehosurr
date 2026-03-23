@@ -18,16 +18,16 @@
 </table>
 
 
-## 🧠 who am i?
+##  who am i?
 
 ```python
 pratham = {
     "username":   "prathambalehosurr",
-    "roles":      ["Full-Stack Dev 🌐", "Backend Engineer 🔧", "ML/AI Builder 🤖", "Data Analyst 📊"],
-    "currently":  "turning coffee ☕ into code and chaos into insights",
-    "superpower": "making data tell stories 📖 and backends do backflips 🤸",
+    "roles":      ["Full-Stack Dev ", "Backend Engineer ", "ML/AI Builder ", "Data Analyst "],
+    "currently":  "turning coffee  into code and chaos into insights",
+    "superpower": "making data tell stories  and backends do backflips ",
     "weakness":   "one more side project... i swear it's the last one",
-    "vibe":       "🎧 lofi + terminal + dark mode = pure happiness",
+    "vibe":       " techno + terminal + dark mode = pure happiness",
     "fun_fact":   "my commit messages are poetry. chaotic poetry. but poetry.",
 }
 ```
@@ -78,12 +78,12 @@ pratham = {
 </div>
 
 
-## 🎯 currently up to
+##  currently up to
 
-- 🔨 building something cool (always)
-- 📚 going deep on LLMs and data pipelines
-- 🌱 learning things that will definitely be useful in 6 months
-- 🤝 open to collabs on ML, full-stack, or anything that sounds fun
+-  building something cool (always)
+-  going deep on LLMs and data pipelines
+-  learning things that will definitely be useful in 6 months
+-  open to collabs on ML, full-stack, or anything that sounds fun
 
 
 ## 📬 find me out in the wild

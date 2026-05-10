@@ -29,12 +29,26 @@ pratham = {
     "weakness":   "one more side project... i swear it's the last one",
     "vibe":       " techno + terminal + dark mode = pure happiness",
     "fun_fact":   "my commit messages are poetry. chaotic poetry. but poetry.",
+    "currently_building": [
+        "Astryx UI system",
+        "AI-powered automation workflows",
+        "agentic developer tooling",
+    ],
+
+    "terminal_state": "probably running 14 tabs and 3 local servers",
+
+    "favorite_bug": "works on localhost but nowhere else",
 }
 ```
 
 
-## 🛠️ my tech playground
-
+<h2 align="center"> My Tech Playground</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-Agentic-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Workflows-Automation-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open_Source-Builder-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Terminal-Lives_Here-green?style=for-the-badge" />
+</p>
 <div align="center">
 
 **🌐 Frontend**
@@ -61,8 +75,30 @@ pratham = {
 
 </div>
 
+## Featured Experiments
 
-## 📊 github wrapped (but make it stats)
+<table>
+<tr>
+<td width="50%">
+
+###  Astryx UI
+A modern component system focused on beautiful developer experience, reusable architecture, and fast iteration.
+
+**Tech:** React · TypeScript · Tailwind · Motion
+
+</td>
+
+<td width="50%">
+
+###  AI Agent Workflows
+Exploring autonomous coding systems, Claude Code skills, multi-agent orchestration, and AI-assisted engineering pipelines.
+
+</td>
+</tr>
+</table>
+
+
+##  github wrapped
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathambalehosurr&layout=compact&theme=radical&hide_border=true" />
@@ -84,6 +120,14 @@ pratham = {
 -  going deep on LLMs and data pipelines
 -  learning things that will definitely be useful in 6 months
 -  open to collabs on ML, full-stack, or anything that sounds fun
+- learning things that will either change my workflow forever or ruin my sleep schedule
+## ⚡ developer lore
+
+- powered almost entirely by caffeine and curiosity
+- believes clean architecture solves emotional damage
+- dark mode enthusiast since birth
+- ships first, optimizes later, regrets nothing
+- accidentally turned side projects into full ecosystems
 
 
 ## 📬 find me out in the wild

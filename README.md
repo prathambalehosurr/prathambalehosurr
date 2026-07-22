@@ -100,9 +100,6 @@ Exploring autonomous coding systems, Claude Code skills, multi-agent orchestrati
 
 ##  github wrapped
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathambalehosurr&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=prathambalehosurr&theme=radical&hide_border=true" />
